@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @jaat-891
 - 👀 I’m interested in coding and cricket.
 - 🌱 I’m currently learning python...
-- 📫 How to reach me message me on instagram_.surajmal._
+- 📫 How to reach me message me on instagram.
+  my instagram id is _.surajmal._
 
 <!---
 jaat-891/jaat-891 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
